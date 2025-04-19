@@ -125,7 +125,9 @@ CarSpotterHub/
 
 ## Author
 Created by **Kalfox**  
-*A TailCoded Studio Project*
+*A TailCoded Studio Project*  
+<img src="https://storage.googleapis.com/kalfoximg/logos/kalfox-logo.png" alt="Kalfox Logo" width="50" />
+<img src="https://storage.googleapis.com/kalfoximg/logos/tailcoded-logo.png" alt="TailCoded Logo" width="50" />
 
 ---
 
