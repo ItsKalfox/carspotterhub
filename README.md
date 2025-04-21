@@ -78,7 +78,9 @@ Here's what’s coming next:
 ## Setup Instructions
 
 - Clone the repository
-  - git clone https://github.com/ItsKalfox/carspotterhub.git
+  ``` bash
+  git clone https://github.com/ItsKalfox/carspotterhub.git
+  ```
 
 - Import the `database/cardatabase.sql` file using phpMyAdmin.
 
